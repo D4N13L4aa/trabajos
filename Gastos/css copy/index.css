@@ -1,0 +1,43 @@
+body{
+    background-color: rgb(44, 57, 79);
+}
+header{
+    margin: 30px;
+}
+h1{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-weight: 100;
+    color: rgb(27, 41, 72);
+    font-size: 22px;
+    margin-bottom: 30px;
+}
+.contenido_gastos{
+    background-color: rgb(63, 53, 99);
+    padding: 30px;
+    border-radius: 30px;
+}
+.container{
+    padding: 20px;
+    background-color: white;
+    border-radius: 1rem;
+    margin-top: 50px;
+    border: 1px solid;
+}
+h2{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-weight: 100;
+    color: rgb(27, 41, 72);
+    font-size: 22px;
+    margin-bottom: 30px;
+}
+.presupuesto, p{
+    margin-bottom: 0;
+    font-weight: bold;
+}
+.presupuesto, span{
+    font-weight: normal;
+}
+#gastos{
+    margin-bottom: 30px;
+}
+
